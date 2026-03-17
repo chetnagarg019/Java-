@@ -28,19 +28,11 @@ public class array {
             System.out.println("Not find");
         }
 
-        
+         //scanner close item
 
         sc.close();
 
         
-
-
-
-
-
-
-
-
     }
 
     
