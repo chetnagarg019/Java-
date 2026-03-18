@@ -10,7 +10,7 @@ public class SumLowestElements {
         System.out.print("Enter size of array (N): ");
         int N = sc.nextInt();
 
-        int[] arr = new int[N];
+        int[] arr = new int[N]; //create new array
 
         // Input array elements
         System.out.println("Enter " + N + " elements:");
