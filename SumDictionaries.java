@@ -23,7 +23,7 @@ public class SumDictionaries {
             result[i] = val1 + val2;
         }
 
-        return result;
+        return result; // return result here of the process 
     }
 
     public static void main(String[] args) {
