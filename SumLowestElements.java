@@ -17,7 +17,7 @@ public class SumLowestElements {
         System.out.println("Enter " + N + " elements:");
         for (int i = 0; i < N; i++) {
             arr[i] = sc.nextInt();
-        }
+        } 
 
         // Input M
         System.out.print("Enter number of lowest elements to sum (M): ");
@@ -28,7 +28,7 @@ public class SumLowestElements {
 
         int sum = 0;
 
-        // Sum of lowest M elements
+        // Sum of lowest M elements in this method
         for (int i = 0; i < M; i++) {
             sum += arr[i];
         }
@@ -39,3 +39,4 @@ public class SumLowestElements {
         sc.close();
     }
 }
+
