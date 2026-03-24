@@ -33,7 +33,7 @@ public class SumLowestElements {
             sum += arr[i];
         }
 
-        // Output
+        // Output this is a output 
         System.out.println("Sum of lowest " + M + " elements is: " + sum);
 
         sc.close(); // sc.clode function to close the function
