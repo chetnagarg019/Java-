@@ -21,7 +21,7 @@ public class SumLowestElements {
 
         // Input M
         System.out.print("Enter number of lowest elements to sum (M): ");
-        int M = sc.nextInt();
+        int M = sc.nextInt(); // m size for input array and coreected them that 
 
         // Sort array
         Arrays.sort(arr);

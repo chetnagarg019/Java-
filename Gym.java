@@ -8,7 +8,7 @@ public class Gym {
         int month = sc.nextInt();
 
         if(month <= 0){
-            System.err.println("Invalid input");
+            System.err.println("Invalid input"); // if month is negative -1 -2 like this
         }else if(month == 1){
             System.err.println("Fees is 2000");
         }else if(month == 2 || month == 3){
