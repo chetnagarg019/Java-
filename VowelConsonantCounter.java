@@ -26,7 +26,8 @@ public class VowelConsonantCounter {
             }
         }
 
-        System.out.println("Vowels = " + vowels);
+        System.out.println("Vowels = " + vowels); // vowels here and consonent here
+    
         System.out.println("Consonants = " + consonants);
     }
 }
