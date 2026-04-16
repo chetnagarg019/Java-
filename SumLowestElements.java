@@ -39,4 +39,4 @@ public class SumLowestElements {
         sc.close(); // sc.clode function to close the function
     }
 }
-
+ // that is define 
