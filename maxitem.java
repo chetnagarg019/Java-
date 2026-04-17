@@ -41,7 +41,7 @@ public class maxitem {
         }
 
       
-        System.out.println("max Ele is: "+maxEleFind(arr));
+        System.out.println("max Ele is: "+maxEleFind(arr)); // gieven the max item of arr 
         
 
 
