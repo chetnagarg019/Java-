@@ -23,7 +23,8 @@ public class StringCompression {
         } else {
             return str; 
         }
-    }
+    } 
+    // str complete in this 
 
     public static void main(String[] args) {
 
