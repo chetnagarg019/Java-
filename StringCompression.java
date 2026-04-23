@@ -37,6 +37,6 @@ public class StringCompression {
 
         System.out.println("Result: " + result);
 
-        sc.close();
+        sc.close(); // close scanner that can find 
     }
 }
