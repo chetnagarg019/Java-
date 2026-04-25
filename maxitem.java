@@ -28,7 +28,7 @@ public class maxitem {
         return maxElement;
 
     }
-    public static void main(String[] args){
+    public static void main(String[] args){ // max elemenst of java that can find 
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter n elements:");
