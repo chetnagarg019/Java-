@@ -41,6 +41,6 @@ public class SumDictionaries {
 
         int[] result = sumDictionaries(dict1, dict2);
 
-        System.out.println(Arrays.toString(result));
+        System.out.println(Arrays.toString(result)); //dictation and key value pair 
     }
 }
