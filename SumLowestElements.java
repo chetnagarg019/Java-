@@ -17,8 +17,8 @@ public class SumLowestElements {
         System.out.println("Enter " + N + " elements:");
         for (int i = 0; i < N; i++) {
             arr[i] = sc.nextInt();
-        } 
-
+        }  // max element class 
+ 
         // Input M
         System.out.print("Enter number of lowest elements to sum (M): ");
         int M = sc.nextInt(); // m size for input array and coreected them that 
