@@ -24,7 +24,7 @@ public class SumLowestElements {
         int M = sc.nextInt(); // m size for input array and coreected them that 
 
         // Sort array
-        Arrays.sort(arr);
+        Arrays.sort(arr); // can define 
 
         int sum = 0;
 
