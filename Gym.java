@@ -12,7 +12,7 @@ public class Gym {
         }else if(month == 1){
             System.err.println("Fees is 2000");
         }else if(month == 2 || month == 3){
-            System.err.println("Fees is 2000");
+            System.err.println("Fees is 2000"); // thi is s a tcs level ques 
         }else if(month >= 4 && month <= 6){
             System.err.println("Fees is 9000");
         }else if(month > 6){
