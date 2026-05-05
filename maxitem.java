@@ -20,7 +20,7 @@ public class maxitem {
         for(int key : map.keySet()){
             if(map.get(key) > maxCount){ /// is is the
                 maxCount = map.get(key);
-                maxElement = key;
+                maxElement = key; // then convert the array 
                 
             }
         }
