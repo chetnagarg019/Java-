@@ -12,7 +12,7 @@ public class SumDictionaries {
         }
         for (int key : d2.keySet()) {
             maxIndex = Math.max(maxIndex, key);
-        }
+        } /// it is the key element 
 
         int[] result = new int[maxIndex + 1];
 
