@@ -25,7 +25,7 @@ public class maxitem {
             }
         }
 
-        return maxElement;
+        return maxElement; // max element of the java 
 
     }
     public static void main(String[] args){ // max elemenst of java that can find 

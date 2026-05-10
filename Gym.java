@@ -5,7 +5,7 @@ public class Gym {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter month:");
-        int month = sc.nextInt();
+        int month = sc.nextInt(); 
 
         if(month <= 0){
             System.err.println("Invalid input"); // if month is negative -1 -2 like this
@@ -16,7 +16,7 @@ public class Gym {
         }else if(month >= 4 && month <= 6){
             System.err.println("Fees is 9000");
         }else if(month > 6){
-            System.err.println("Fees is 15000");
+            System.err.println("Fees is 15000"); // tcs level question
         }
 
         sc.close();
