@@ -14,7 +14,7 @@ public class maxitem {
         //map.put(key -> value) // map.getOrDefault(key , default value)
 
         int maxCount = 0;
-        int maxElement = arr[0];
+        int maxElement = arr[0]; // mex element can find the array of the max element 
 
         //max frequncy 
         for(int key : map.keySet()){
