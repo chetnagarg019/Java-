@@ -11,7 +11,7 @@ public class Gym {
             System.err.println("Invalid input"); // if month is negative -1 -2 like this
         }else if(month == 1){
             System.err.println("Fees is 2000");
-        }else if(month == 2 || month == 3){
+        }else if(month == 2 || month == 3){ // month ele of the java that can fill requirment 
             System.err.println("Fees is 2000"); // thi is s a tcs level ques 
         }else if(month >= 4 && month <= 6){
             System.err.println("Fees is 9000");
