@@ -22,7 +22,7 @@ public class maxitem {
                 maxCount = map.get(key);
                 maxElement = key; // then convert the array 
                 
-            }
+            } // max item of the java 
         }
 
         return maxElement; // max element of the java 
