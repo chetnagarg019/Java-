@@ -20,7 +20,7 @@ public class SumDictionaries {
             int val1 = d1.getOrDefault(i, 0);
             int val2 = d2.getOrDefault(i, 0);
 
-            result[i] = val1 + val2;
+            result[i] = val1 + val2; // sum of two variable 
         }
 
         return result; // return result here of the process 
