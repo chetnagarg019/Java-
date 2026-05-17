@@ -31,13 +31,13 @@ public class SumDictionaries {
         HashMap<Integer, Integer> dict1 = new HashMap<>();
         HashMap<Integer, Integer> dict2 = new HashMap<>();
 
-        dict1.put(0, 2);
+        dict1.put(0, 2); // dictionary here 
         dict1.put(1, 3);
         dict1.put(2, 4);
 
         dict2.put(1, 5);
         dict2.put(2, 6);
-        dict2.put(3, 7);
+        dict2.put(3, 7); // second dict is here
 
         int[] result = sumDictionaries(dict1, dict2);
 
