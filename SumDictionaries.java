@@ -33,7 +33,7 @@ public class SumDictionaries {
 
         dict1.put(0, 2); // dictionary here 
         dict1.put(1, 3);
-        dict1.put(2, 4);
+        dict1.put(2, 4); // it is the first item can find its memory
 
         dict2.put(1, 5);
         dict2.put(2, 6);
