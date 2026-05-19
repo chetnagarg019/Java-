@@ -8,7 +8,7 @@ public class maxitem {
         int n = arr.length;
 
         for(int i = 0; i < n; i++){
-            map.put(arr[i],map.getOrDefault(arr[i],0) + 1);
+            map.put(arr[i],map.getOrDefault(arr[i],0) + 1); // it it a part of process then case define the process and the run process 
         }
 
         //map.put(key -> value) // map.getOrDefault(key , default value)
