@@ -13,7 +13,7 @@ public class StringCompression {
             } else {
                 compressed.append(str.charAt(i));
                 compressed.append(count);
-                count = 0;
+                count = 0; // count 0 for the first iteration and second count is 
             }
         }
 
