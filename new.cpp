@@ -6,6 +6,6 @@ function int printAge(string Name, int Age){
     return "93";
 }
 int main(){
-    printAge("Akash",29);
+    printAge("Akash",29); // print the age of the person in these case 
     return 0;
 }
